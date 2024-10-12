@@ -4,7 +4,6 @@ class BasicAppButton extends StatelessWidget {
   final VoidCallback onPressed;
   final String title;
   final double? height;
-
   const BasicAppButton({
     required this.onPressed,
     required this.title,
