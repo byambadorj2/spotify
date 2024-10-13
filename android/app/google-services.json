@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257509481008",
+    "project_id": "spofity-89073",
+    "storage_bucket": "spofity-89073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257509481008:android:f747705c12dd1c8845abf5",
+        "android_client_info": {
+          "package_name": "mn.spofity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC2aj6BtjEpYOmGdE9mKLQdXWr7dWL2mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
